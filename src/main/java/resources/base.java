@@ -34,7 +34,7 @@ public class base {
 		Properties prop = new Properties();
 		Boolean AlreadyLogin = false;
 		FileInputStream fis = new FileInputStream(
-				"C:\\Users\\bilaw\\.jenkins\\workspace\\SmokeTestFirefoxCCP\\src\\main\\java\\resources\\data.properties");
+				"C:\\Users\\bilaw\\.jenkins\\workspace\\UATSmokeTestFirefoxCCP\\src\\main\\java\\resources\\data.properties");
 		prop.load(fis);
 		String browserName = prop.getProperty("browser");
 		url = prop.getProperty("url");
