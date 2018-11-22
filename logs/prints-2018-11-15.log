@@ -1,0 +1,429 @@
+21:29:43.503 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:30:21.126 [main] INFO  resources.base - User has clicked on the My Profile Page from the Account Menu
+21:30:21.236 [main] INFO  resources.base - My Profile heading is present on My Profile Page
+21:30:39.164 [main] INFO  resources.base - User has clicked on the Edit Profile button on My Profile Page
+21:30:39.214 [main] INFO  resources.base - Edit profile heading is present on the Edit profile page
+21:30:41.534 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:30:41.586 [main] ERROR resources.base - User not able to click on the Change Password Link from the Account Menu
+21:30:41.586 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/users/change-password"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10556, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49e2779f-ec1e-4277-aba8-3b94a8c3e5a6
+21:31:13.694 [main] INFO  resources.base - User has clicked on the Account Setting from the left navigation menu
+21:31:13.760 [main] INFO  resources.base - Account Settings heading is present on Account Settings Page
+21:31:28.006 [main] INFO  resources.base - User has clicked on the Catalog Restrictions link from the left navigation menu
+21:31:28.054 [main] INFO  resources.base - Catalog Restrictions heading is present on Catalog Page
+21:31:38.849 [main] INFO  resources.base - User has clicked on the Domain link from the left navigation menu
+21:31:38.934 [main] INFO  resources.base - Manage Domains heading is present on Domain Page
+21:31:44.237 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:31:44.260 [main] ERROR resources.base - User not able to click on the Set Notification Link from the Account Menu
+21:31:44.260 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/notifications"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10556, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49e2779f-ec1e-4277-aba8-3b94a8c3e5a6
+21:31:46.576 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:31:46.646 [main] ERROR resources.base - User not able to click on the Address of Use Link from the Account Menu
+21:31:46.646 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/account/address-request"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10556, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49e2779f-ec1e-4277-aba8-3b94a8c3e5a6
+21:31:51.924 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:31:51.946 [main] ERROR resources.base - User not able to click on the users link from the Account Menu
+21:31:51.946 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/users"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10556, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49e2779f-ec1e-4277-aba8-3b94a8c3e5a6
+21:32:12.002 [main] ERROR resources.base - User not able to click on request tab on the users page
+21:32:12.002 [main] ERROR resources.base - Unable to locate element: //a[text()='Requests ']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10556, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49e2779f-ec1e-4277-aba8-3b94a8c3e5a6
+*** Element info: {Using=xpath, value=//a[text()='Requests ']}
+21:32:32.051 [main] ERROR resources.base - User not able to click on Invites tab on the users page
+21:32:32.051 [main] ERROR resources.base - Unable to locate element: //a[text()='Invites ']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10556, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49e2779f-ec1e-4277-aba8-3b94a8c3e5a6
+*** Element info: {Using=xpath, value=//a[text()='Invites ']}
+21:32:34.357 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:32:34.426 [main] ERROR resources.base - User not able to click on the Logout Page from the Account Menu
+21:32:34.426 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/auth/logout"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10556, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49e2779f-ec1e-4277-aba8-3b94a8c3e5a6
+21:32:54.451 [main] ERROR resources.base - User not able to find the Forget Password Link on the Login Page
+21:32:54.451 [main] ERROR resources.base - Unable to locate element: //a[@id='forgetUrl']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10556, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49e2779f-ec1e-4277-aba8-3b94a8c3e5a6
+*** Element info: {Using=xpath, value=//a[@id='forgetUrl']}
+21:33:15.832 [main] ERROR resources.base - User not able to find Create Account Link on the Login Page , hence not able to click it
+21:33:15.832 [main] ERROR resources.base - Unable to locate element: //a[text()='Create Account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10556, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49e2779f-ec1e-4277-aba8-3b94a8c3e5a6
+*** Element info: {Using=xpath, value=//a[text()='Create Account']}
+22:01:05.553 [main] INFO  resources.base - The title of the home page is captured
+22:01:05.553 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+22:01:08.799 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+22:01:08.799 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+22:01:16.701 [main] INFO  resources.base - User has Clicked on the Manage tab from the Home Dashboard
+22:01:16.701 [main] INFO  resources.base - user has routed to the Manage Page after clicking on the manage Tab
+22:01:16.701 [main] INFO  resources.base - User has Successfully nevigated to the manage Page
+22:01:16.741 [main] INFO  resources.base - Billing & invoice link is present on the Manage Page
+22:01:16.788 [main] INFO  resources.base - Calendar link is present on the Manage Page
+22:01:16.811 [main] INFO  resources.base - Subscription link is present on the Manage Page
+22:01:20.823 [main] INFO  resources.base - User has clicked on the Insight tab from the Home Page
+22:01:20.823 [main] INFO  resources.base - After clicking on the Insight Tab from the Home page , User have successfully nevigate to the Insight Page
+22:01:20.847 [main] INFO  resources.base - Dashboard Link is present on the Insight Page
+22:01:20.871 [main] INFO  resources.base - Report Link is present on the Insight Page
+22:01:40.402 [main] INFO  resources.base - User has clicked on the notification link from the Home Page
+22:01:40.402 [main] INFO  resources.base - User has routed to the Notification page after clicking on the notification link
+22:01:40.450 [main] INFO  resources.base - Notification Settings button is present on the Notifications page
+22:01:40.480 [main] INFO  resources.base - Notification heading is present on the Notifications page
+22:01:40.517 [main] INFO  resources.base - All Notification tab is present on the Notifications page
+22:01:40.523 [main] INFO  resources.base - Flagged tab is present on the Notifications page
+22:01:48.783 [main] INFO  resources.base - User has clicked on the Logo from the Notification Page
+22:01:48.783 [main] INFO  resources.base - After clicking on logo, user has roue to the Homepage
+22:01:51.029 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:02:20.349 [main] INFO  resources.base - User has clicked on the My Profile Page from the Account Menu
+22:02:20.426 [main] INFO  resources.base - My Profile heading is present on My Profile Page
+22:02:43.493 [main] INFO  resources.base - User has clicked on the Edit Profile button on My Profile Page
+22:02:43.547 [main] INFO  resources.base - Edit profile heading is present on the Edit profile page
+22:02:45.785 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:03:01.736 [main] INFO  resources.base - User has clicked on the Change Password Link from the Account Menu
+22:03:01.784 [main] INFO  resources.base - Change password heading is present on Change Password Page
+22:03:34.043 [main] INFO  resources.base - User has clicked on the Account Setting from the left navigation menu
+22:03:34.151 [main] INFO  resources.base - Account Settings heading is present on Account Settings Page
+22:03:57.026 [main] INFO  resources.base - User has clicked on the Catalog Restrictions link from the left navigation menu
+22:03:57.094 [main] INFO  resources.base - Catalog Restrictions heading is present on Catalog Page
+22:04:12.024 [main] INFO  resources.base - User has clicked on the Domain link from the left navigation menu
+22:04:12.089 [main] INFO  resources.base - Manage Domains heading is present on Domain Page
+22:04:17.253 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:04:23.248 [main] INFO  resources.base - User has clicked on the Set Notification Link from the Account Menu
+22:04:25.406 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:04:43.136 [main] INFO  resources.base - User has clicked on the Address of Use Link from the Account Menu
+22:04:48.237 [main] INFO  resources.base - Address of Use heading is present on the Address Page
+22:04:53.422 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:07:05.740 [main] INFO  resources.base - User has clicked on the users Link from the Account Menu
+22:07:10.827 [main] INFO  resources.base - Tabs are appearing on the Users Page
+22:07:13.223 [main] INFO  resources.base - User has clicked on the request tab on the users page
+22:07:13.274 [main] INFO  resources.base - After clicking on request tab, the request tab becomes active
+22:07:15.601 [main] INFO  resources.base - User has clicked on the Invites tab on the users page
+22:07:15.643 [main] INFO  resources.base - After clicking on Invites tab, the Invites tab becomes active
+22:07:17.812 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:07:20.981 [main] INFO  resources.base - User has clicked on the Logout Page from the Account Menu
+22:07:21.588 [main] INFO  resources.base - User has clicked on the Forget Password Link from the Login Page
+22:07:26.625 [main] INFO  resources.base - Email textbox is present on the Forget password page
+22:07:30.508 [main] INFO  resources.base - User has clicked on the submit button on the forget password Page
+22:07:30.525 [main] INFO  resources.base - Once the User click on Submit button then the validation message is appearing
+22:07:48.958 [main] INFO  resources.base - User Clicked on Create Account Link from the Login Page
+22:07:48.958 [main] INFO  resources.base - Signup Page is opended and its title is being captured
+22:07:48.984 [main] INFO  resources.base - Email Text Box is present on the Signup Page
+22:07:49.306 [main] INFO  resources.base - Verify button is present on the Signup Page and user has clicked on it
+22:07:49.334 [main] INFO  resources.base - Once the User pressed the Verify button , Validation message is appearing on the Signup Page
+22:12:22.768 [main] INFO  resources.base - The title of the home page is captured
+22:12:22.768 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+22:12:26.080 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+22:12:26.080 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+22:12:40.657 [main] INFO  resources.base - User has Clicked on the Manage tab from the Home Dashboard
+22:12:40.657 [main] INFO  resources.base - user has routed to the Manage Page after clicking on the manage Tab
+22:12:40.657 [main] INFO  resources.base - User has Successfully nevigated to the manage Page
+22:12:40.711 [main] INFO  resources.base - Billing & invoice link is present on the Manage Page
+22:12:40.734 [main] INFO  resources.base - Calendar link is present on the Manage Page
+22:12:40.759 [main] INFO  resources.base - Subscription link is present on the Manage Page
+22:12:46.238 [main] INFO  resources.base - User has clicked on the Insight tab from the Home Page
+22:12:46.238 [main] INFO  resources.base - After clicking on the Insight Tab from the Home page , User have successfully nevigate to the Insight Page
+22:12:46.258 [main] INFO  resources.base - Dashboard Link is present on the Insight Page
+22:12:46.282 [main] INFO  resources.base - Report Link is present on the Insight Page
+22:13:43.906 [main] INFO  resources.base - User has clicked on the notification link from the Home Page
+22:13:43.906 [main] INFO  resources.base - User has routed to the Notification page after clicking on the notification link
+22:13:43.933 [main] INFO  resources.base - Notification Settings button is present on the Notifications page
+22:13:43.955 [main] INFO  resources.base - Notification heading is present on the Notifications page
+22:13:43.982 [main] INFO  resources.base - All Notification tab is present on the Notifications page
+22:13:44.013 [main] INFO  resources.base - Flagged tab is present on the Notifications page
+22:13:51.758 [main] INFO  resources.base - User has clicked on the Logo from the Notification Page
+22:13:51.758 [main] INFO  resources.base - After clicking on logo, user has roue to the Homepage
+22:13:53.990 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:14:17.857 [main] INFO  resources.base - User has clicked on the My Profile Page from the Account Menu
+22:14:17.935 [main] INFO  resources.base - My Profile heading is present on My Profile Page
+22:14:41.883 [main] INFO  resources.base - User has clicked on the Edit Profile button on My Profile Page
+22:14:41.951 [main] INFO  resources.base - Edit profile heading is present on the Edit profile page
+22:14:44.140 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:15:12.183 [main] INFO  resources.base - User has clicked on the Change Password Link from the Account Menu
+22:15:12.233 [main] INFO  resources.base - Change password heading is present on Change Password Page
+22:15:24.285 [main] INFO  resources.base - User has clicked on the Account Setting from the left navigation menu
+22:15:24.383 [main] INFO  resources.base - Account Settings heading is present on Account Settings Page
+22:15:32.775 [main] INFO  resources.base - User has clicked on the Catalog Restrictions link from the left navigation menu
+22:15:32.859 [main] INFO  resources.base - Catalog Restrictions heading is present on Catalog Page
+22:15:49.528 [main] INFO  resources.base - User has clicked on the Domain link from the left navigation menu
+22:15:49.602 [main] INFO  resources.base - Manage Domains heading is present on Domain Page
+22:15:54.779 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:16:00.742 [main] INFO  resources.base - User has clicked on the Set Notification Link from the Account Menu
+22:16:02.960 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:16:44.185 [main] INFO  resources.base - User has clicked on the Address of Use Link from the Account Menu
+22:16:49.284 [main] INFO  resources.base - Address of Use heading is present on the Address Page
+22:16:54.466 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:17:15.439 [main] INFO  resources.base - User has clicked on the users Link from the Account Menu
+22:17:20.521 [main] INFO  resources.base - Tabs are appearing on the Users Page
+22:17:22.827 [main] INFO  resources.base - User has clicked on the request tab on the users page
+22:17:22.891 [main] INFO  resources.base - After clicking on request tab, the request tab becomes active
+22:17:25.175 [main] INFO  resources.base - User has clicked on the Invites tab on the users page
+22:17:25.224 [main] INFO  resources.base - After clicking on Invites tab, the Invites tab becomes active
+22:17:27.395 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+22:17:30.184 [main] INFO  resources.base - User has clicked on the Logout Page from the Account Menu
+22:17:30.584 [main] INFO  resources.base - User has clicked on the Forget Password Link from the Login Page
+22:17:35.665 [main] INFO  resources.base - Email textbox is present on the Forget password page
+22:17:39.406 [main] INFO  resources.base - User has clicked on the submit button on the forget password Page
+22:17:39.435 [main] INFO  resources.base - Once the User click on Submit button then the validation message is appearing
+22:17:53.523 [main] INFO  resources.base - User Clicked on Create Account Link from the Login Page
+22:17:53.523 [main] INFO  resources.base - Signup Page is opended and its title is being captured
+22:17:53.569 [main] INFO  resources.base - Email Text Box is present on the Signup Page
+22:17:53.852 [main] INFO  resources.base - Verify button is present on the Signup Page and user has clicked on it
+22:17:53.854 [main] INFO  resources.base - Once the User pressed the Verify button , Validation message is appearing on the Signup Page
+12:02:15.659 [main] INFO  resources.base - The title of the home page is captured
+12:02:15.659 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+12:02:19.193 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+12:02:19.193 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+12:02:28.739 [main] INFO  resources.base - User has Clicked on the Manage tab from the Home Dashboard
+12:02:28.739 [main] INFO  resources.base - user has routed to the Manage Page after clicking on the manage Tab
+12:02:28.743 [main] INFO  resources.base - User has Successfully nevigated to the manage Page
+12:02:28.777 [main] INFO  resources.base - Billing & invoice link is present on the Manage Page
+12:02:28.789 [main] INFO  resources.base - Calendar link is present on the Manage Page
+12:02:28.798 [main] INFO  resources.base - Subscription link is present on the Manage Page
+12:02:32.886 [main] INFO  resources.base - User has clicked on the Insight tab from the Home Page
+12:02:32.889 [main] INFO  resources.base - After clicking on the Insight Tab from the Home page , User have successfully nevigate to the Insight Page
+12:02:32.908 [main] INFO  resources.base - Dashboard Link is present on the Insight Page
+12:02:32.915 [main] INFO  resources.base - Report Link is present on the Insight Page
+12:02:49.801 [main] INFO  resources.base - User has clicked on the notification link from the Home Page
+12:02:49.801 [main] INFO  resources.base - User has routed to the Notification page after clicking on the notification link
+12:02:49.830 [main] INFO  resources.base - Notification Settings button is present on the Notifications page
+12:02:49.848 [main] INFO  resources.base - Notification heading is present on the Notifications page
+12:02:49.858 [main] INFO  resources.base - All Notification tab is present on the Notifications page
+12:02:49.866 [main] INFO  resources.base - Flagged tab is present on the Notifications page
+12:02:56.141 [main] INFO  resources.base - User has clicked on the Logo from the Notification Page
+12:02:56.147 [main] INFO  resources.base - After clicking on logo, user has roue to the Homepage
+12:02:58.388 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+12:03:12.723 [main] INFO  resources.base - User has clicked on the My Profile Page from the Account Menu
+12:03:12.809 [main] INFO  resources.base - My Profile heading is present on My Profile Page
+12:03:30.208 [main] INFO  resources.base - User has clicked on the Edit Profile button on My Profile Page
+12:03:30.273 [main] INFO  resources.base - Edit profile heading is present on the Edit profile page
+12:03:32.393 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+12:03:46.485 [main] INFO  resources.base - User has clicked on the Change Password Link from the Account Menu
+12:03:46.535 [main] INFO  resources.base - Change password heading is present on Change Password Page
+12:03:56.904 [main] INFO  resources.base - User has clicked on the Account Setting from the left navigation menu
+12:03:56.967 [main] INFO  resources.base - Account Settings heading is present on Account Settings Page
+12:04:04.796 [main] INFO  resources.base - User has clicked on the Catalog Restrictions link from the left navigation menu
+12:04:04.851 [main] INFO  resources.base - Catalog Restrictions heading is present on Catalog Page
+12:04:14.764 [main] INFO  resources.base - User has clicked on the Domain link from the left navigation menu
+12:04:14.813 [main] INFO  resources.base - Manage Domains heading is present on Domain Page
+12:04:19.947 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+12:04:25.811 [main] INFO  resources.base - User has clicked on the Set Notification Link from the Account Menu
+12:04:27.947 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+12:04:45.216 [main] INFO  resources.base - User has clicked on the Address of Use Link from the Account Menu
+12:04:50.271 [main] INFO  resources.base - Address of Use heading is present on the Address Page
+12:04:55.394 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+12:05:16.531 [main] INFO  resources.base - User has clicked on the users Link from the Account Menu
+12:05:21.589 [main] INFO  resources.base - Tabs are appearing on the Users Page
+12:05:23.888 [main] INFO  resources.base - User has clicked on the request tab on the users page
+12:05:23.904 [main] INFO  resources.base - After clicking on request tab, the request tab becomes active
+12:05:26.150 [main] INFO  resources.base - User has clicked on the Invites tab on the users page
+12:05:26.168 [main] INFO  resources.base - After clicking on Invites tab, the Invites tab becomes active
+12:05:28.305 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+12:05:31.040 [main] INFO  resources.base - User has clicked on the Logout Page from the Account Menu
+12:05:31.418 [main] INFO  resources.base - User has clicked on the Forget Password Link from the Login Page
+12:05:36.463 [main] INFO  resources.base - Email textbox is present on the Forget password page
+12:05:40.116 [main] INFO  resources.base - User has clicked on the submit button on the forget password Page
+12:05:40.124 [main] INFO  resources.base - Once the User click on Submit button then the validation message is appearing
+12:06:01.472 [main] INFO  resources.base - User Clicked on Create Account Link from the Login Page
+12:06:01.473 [main] INFO  resources.base - Signup Page is opended and its title is being captured
+12:06:01.498 [main] INFO  resources.base - Email Text Box is present on the Signup Page
+12:06:01.732 [main] INFO  resources.base - Verify button is present on the Signup Page and user has clicked on it
+12:06:01.740 [main] INFO  resources.base - Once the User pressed the Verify button , Validation message is appearing on the Signup Page
+12:59:40.536 [main] INFO  resources.base - The title of the home page is captured
+12:59:40.536 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+12:59:43.667 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+12:59:43.667 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+12:59:49.930 [main] INFO  resources.base - User has Clicked on the Manage tab from the Home Dashboard
+12:59:49.930 [main] INFO  resources.base - user has routed to the Manage Page after clicking on the manage Tab
+12:59:49.930 [main] INFO  resources.base - User has Successfully nevigated to the manage Page
+12:59:49.989 [main] INFO  resources.base - Billing & invoice link is present on the Manage Page
+12:59:50.014 [main] INFO  resources.base - Calendar link is present on the Manage Page
+12:59:50.036 [main] INFO  resources.base - Subscription link is present on the Manage Page
+12:59:53.879 [main] INFO  resources.base - User has clicked on the Insight tab from the Home Page
+12:59:53.879 [main] INFO  resources.base - After clicking on the Insight Tab from the Home page , User have successfully nevigate to the Insight Page
+12:59:53.924 [main] INFO  resources.base - Dashboard Link is present on the Insight Page
+12:59:53.945 [main] INFO  resources.base - Report Link is present on the Insight Page
+13:00:15.093 [main] INFO  resources.base - User has clicked on the notification link from the Home Page
+13:00:15.093 [main] INFO  resources.base - User has routed to the Notification page after clicking on the notification link
+13:00:35.152 [main] ERROR resources.base - Notification Settings button is not present on the Notifications page
+13:00:35.152 [main] ERROR resources.base - Unable to locate element: //a[@class='btn' and text()='Notification Settings']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9540, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f7dc2b52-1a04-4190-ba6a-3eb6d34a116c
+*** Element info: {Using=xpath, value=//a[@class='btn' and text()='Notification Settings']}
+13:00:41.301 [main] INFO  resources.base - User has clicked on the Logo from the Notification Page
+13:00:41.301 [main] INFO  resources.base - After clicking on logo, user has roue to the Homepage
+13:00:43.576 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+13:01:27.802 [main] INFO  resources.base - User has clicked on the My Profile Page from the Account Menu
+13:01:27.970 [main] INFO  resources.base - My Profile heading is present on My Profile Page
+13:03:00.381 [main] INFO  resources.base - User has clicked on the Edit Profile button on My Profile Page
+13:03:00.492 [main] INFO  resources.base - Edit profile heading is present on the Edit profile page
+13:03:02.693 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+13:03:30.503 [main] INFO  resources.base - User has clicked on the Change Password Link from the Account Menu
+13:03:30.577 [main] INFO  resources.base - Change password heading is present on Change Password Page
+13:03:30.625 [main] ERROR resources.base - User not able to click on the Account Setting from the left navigation menu
+13:03:30.625 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/account/settings"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9540, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f7dc2b52-1a04-4190-ba6a-3eb6d34a116c
+13:03:30.670 [main] ERROR resources.base - User not able to click on the Catalog Restrictions link from the left navigation menu
+13:03:30.670 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/account/catalog-restrictions"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9540, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f7dc2b52-1a04-4190-ba6a-3eb6d34a116c
+13:03:50.703 [main] ERROR resources.base - User not able to click on the Domain Link link from the left navigation menu
+13:03:50.703 [main] ERROR resources.base - Unable to locate element: //a[text()='Domains']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9540, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f7dc2b52-1a04-4190-ba6a-3eb6d34a116c
+*** Element info: {Using=xpath, value=//a[text()='Domains']}
+13:03:55.866 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+13:04:15.892 [main] ERROR resources.base - User not able to click on the Set Notification Link from the Account Menu
+13:04:15.892 [main] ERROR resources.base - Unable to locate element: //div[@class='account-menu']//a[text()='Set Notifications']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9540, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f7dc2b52-1a04-4190-ba6a-3eb6d34a116c
+*** Element info: {Using=xpath, value=//div[@class='account-menu']//a[text()='Set Notifications']}
+13:04:18.051 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+13:04:33.671 [main] INFO  resources.base - User has clicked on the Address of Use Link from the Account Menu
+13:04:38.787 [main] INFO  resources.base - Address of Use heading is present on the Address Page
+13:04:43.936 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+13:05:03.946 [main] ERROR resources.base - User not able to click on the users link from the Account Menu
+13:05:03.946 [main] ERROR resources.base - Unable to locate element: //div[@class='account-menu']//a[text()='Users']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9540, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f7dc2b52-1a04-4190-ba6a-3eb6d34a116c
+*** Element info: {Using=xpath, value=//div[@class='account-menu']//a[text()='Users']}
+13:05:24.015 [main] ERROR resources.base - User not able to click on request tab on the users page
+13:05:24.015 [main] ERROR resources.base - Unable to locate element: //a[text()='Requests ']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9540, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f7dc2b52-1a04-4190-ba6a-3eb6d34a116c
+*** Element info: {Using=xpath, value=//a[text()='Requests ']}
+13:05:44.055 [main] ERROR resources.base - User not able to click on Invites tab on the users page
+13:05:44.055 [main] ERROR resources.base - Unable to locate element: //a[text()='Invites ']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9540, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f7dc2b52-1a04-4190-ba6a-3eb6d34a116c
+*** Element info: {Using=xpath, value=//a[text()='Invites ']}
+13:05:46.238 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+13:05:49.098 [main] INFO  resources.base - User has clicked on the Logout Page from the Account Menu
+13:05:49.741 [main] INFO  resources.base - User has clicked on the Forget Password Link from the Login Page
+13:05:54.812 [main] INFO  resources.base - Email textbox is present on the Forget password page
+13:05:58.509 [main] INFO  resources.base - User has clicked on the submit button on the forget password Page
+13:05:58.556 [main] INFO  resources.base - Once the User click on Submit button then the validation message is appearing
+13:06:14.355 [main] INFO  resources.base - User Clicked on Create Account Link from the Login Page
+13:06:14.355 [main] INFO  resources.base - Signup Page is opended and its title is being captured
+13:25:59.186 [main] INFO  resources.base - The title of the home page is captured
+13:25:59.186 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+13:26:02.433 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+13:26:02.433 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+13:26:10.076 [main] INFO  resources.base - User has Clicked on the Manage tab from the Home Dashboard
+13:26:10.076 [main] INFO  resources.base - user has routed to the Manage Page after clicking on the manage Tab
+13:26:10.076 [main] INFO  resources.base - User has Successfully nevigated to the manage Page
+13:26:10.098 [main] INFO  resources.base - Billing & invoice link is present on the Manage Page
+13:26:10.117 [main] INFO  resources.base - Calendar link is present on the Manage Page
+13:26:10.141 [main] INFO  resources.base - Subscription link is present on the Manage Page
+13:26:14.155 [main] INFO  resources.base - User has clicked on the Insight tab from the Home Page
+13:26:14.155 [main] INFO  resources.base - After clicking on the Insight Tab from the Home page , User have successfully nevigate to the Insight Page
+13:26:14.181 [main] INFO  resources.base - Dashboard Link is present on the Insight Page
+13:26:14.222 [main] INFO  resources.base - Report Link is present on the Insight Page
+13:26:42.534 [main] INFO  resources.base - User has clicked on the notification link from the Home Page
+13:26:42.534 [main] INFO  resources.base - User has routed to the Notification page after clicking on the notification link
+13:27:02.572 [main] ERROR resources.base - Notification Settings button is not present on the Notifications page
+13:27:02.572 [main] ERROR resources.base - Unable to locate element: //a[@class='btn' and text()='Notification Settings']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 4916, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f19aff16-6a00-45c4-a3de-83bce872cd79
+*** Element info: {Using=xpath, value=//a[@class='btn' and text()='Notification Settings']}
+13:27:09.078 [main] INFO  resources.base - User has clicked on the Logo from the Notification Page
+13:27:09.078 [main] INFO  resources.base - After clicking on logo, user has roue to the Homepage
+13:27:11.274 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+13:27:28.220 [main] INFO  resources.base - User has clicked on the My Profile Page from the Account Menu
+13:27:28.314 [main] INFO  resources.base - My Profile heading is present on My Profile Page
+13:27:50.608 [main] INFO  resources.base - User has clicked on the Edit Profile button on My Profile Page
+13:27:50.705 [main] INFO  resources.base - Edit profile heading is present on the Edit profile page
+13:27:52.897 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+13:28:08.159 [main] INFO  resources.base - User has clicked on the Change Password Link from the Account Menu
+13:28:08.212 [main] INFO  resources.base - Change password heading is present on Change Password Page
+13:28:08.278 [main] ERROR resources.base - User not able to click on the Account Setting from the left navigation menu
+13:28:08.278 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/account/settings"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 4916, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f19aff16-6a00-45c4-a3de-83bce872cd79
+13:28:08.341 [main] ERROR resources.base - User not able to click on the Catalog Restrictions link from the left navigation menu
+13:28:08.341 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/account/catalog-restrictions"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 4916, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f19aff16-6a00-45c4-a3de-83bce872cd79
+13:28:28.380 [main] ERROR resources.base - User not able to click on the Domain Link link from the left navigation menu
+13:28:28.380 [main] ERROR resources.base - Unable to locate element: //a[text()='Domains']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 4916, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f19aff16-6a00-45c4-a3de-83bce872cd79
+*** Element info: {Using=xpath, value=//a[text()='Domains']}

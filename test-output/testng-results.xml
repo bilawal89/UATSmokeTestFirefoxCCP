@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="22" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="405622" started-at="2018-11-22T04:51:29Z" finished-at="2018-11-22T04:58:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="405622" started-at="2018-11-22T04:51:29Z" finished-at="2018-11-22T04:58:14Z">
+      <class name="smokeTest.ValidateSmokeTest">
+        <test-method status="PASS" signature="ValidateLogin()[pri:0, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateLogin" duration-ms="71393" started-at="2018-11-22T09:51:29Z" finished-at="2018-11-22T09:52:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogin -->
+        <test-method status="PASS" signature="ValidateMarkITPlacePage()[pri:1, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateMarkITPlacePage" duration-ms="3278" started-at="2018-11-22T09:52:40Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateMarkITPlacePage -->
+        <test-method status="PASS" signature="ValidateManageTab()[pri:2, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateManageTab" duration-ms="7921" started-at="2018-11-22T09:52:43Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateManageTab -->
+        <test-method status="PASS" signature="ValidateInsightTab()[pri:3, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateInsightTab" duration-ms="3870" started-at="2018-11-22T09:52:51Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateInsightTab -->
+        <test-method status="PASS" signature="ValidateNotificationPage()[pri:4, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateNotificationPage" duration-ms="16789" started-at="2018-11-22T09:52:55Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:53:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateNotificationPage -->
+        <test-method status="PASS" signature="ValidateLogo()[pri:5, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateLogo" duration-ms="6071" started-at="2018-11-22T09:53:12Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogo -->
+        <test-method status="PASS" signature="ValidateMyProfile()[pri:6, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateMyProfile" duration-ms="34300" started-at="2018-11-22T09:53:18Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateMyProfile -->
+        <test-method status="PASS" signature="ValidateEditProfile()[pri:7, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateEditProfile" duration-ms="91419" started-at="2018-11-22T09:53:52Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateEditProfile -->
+        <test-method status="PASS" signature="ValidateChangePassword()[pri:8, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateChangePassword" duration-ms="19049" started-at="2018-11-22T09:55:24Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateChangePassword -->
+        <test-method status="PASS" signature="ValidateCatalogRestriction()[pri:10, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateCatalogRestriction" duration-ms="12471" started-at="2018-11-22T09:55:43Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCatalogRestriction -->
+        <test-method status="PASS" signature="ValidateDomainLink()[pri:11, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateDomainLink" duration-ms="15458" started-at="2018-11-22T09:55:55Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDomainLink -->
+        <test-method status="PASS" signature="ValidateAddressPage()[pri:13, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateAddressPage" duration-ms="58208" started-at="2018-11-22T09:56:11Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:57:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateAddressPage -->
+        <test-method status="PASS" signature="ValidateUsersPage()[pri:14, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateUsersPage" duration-ms="27206" started-at="2018-11-22T09:57:09Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateUsersPage -->
+        <test-method status="PASS" signature="ValidateRequestTab()[pri:15, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateRequestTab" duration-ms="3165" started-at="2018-11-22T09:57:36Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:57:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateRequestTab -->
+        <test-method status="PASS" signature="ValidateInviteTab()[pri:16, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateInviteTab" duration-ms="2337" started-at="2018-11-22T09:57:39Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateInviteTab -->
+        <test-method status="PASS" signature="ValidateLogout()[pri:17, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateLogout" duration-ms="5133" started-at="2018-11-22T09:57:42Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogout -->
+        <test-method status="PASS" signature="ValidateForgetPswd()[pri:18, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateForgetPswd" duration-ms="9584" started-at="2018-11-22T09:57:47Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateForgetPswd -->
+        <test-method status="PASS" signature="ValidateRegPage()[pri:19, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="ValidateRegPage" duration-ms="16541" started-at="2018-11-22T09:57:56Z" depends-on-methods="smokeTest.ValidateSmokeTest.ValidateLogin" finished-at="2018-11-22T09:58:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateRegPage -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:smokeTest.ValidateSmokeTest@363ee3a2]" name="closebrowser" is-config="true" duration-ms="1337" started-at="2018-11-22T09:58:13Z" finished-at="2018-11-22T09:58:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- smokeTest.ValidateSmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

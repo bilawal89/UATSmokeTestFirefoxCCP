@@ -1,0 +1,386 @@
+21:05:08.928 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:05:09.053 [main] ERROR resources.base - User not able to click on the Change Password Link from the Account Menu
+21:05:09.053 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/users/change-password"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+21:05:29.141 [main] ERROR resources.base - User not able to click on the Account Setting from the left navigation menu
+21:05:29.141 [main] ERROR resources.base - Unable to locate element: //a[text()='Account Settings']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+*** Element info: {Using=xpath, value=//a[text()='Account Settings']}
+21:05:49.165 [main] ERROR resources.base - User not able to click on the Catalog Restrictions link from the left navigation menu
+21:05:49.165 [main] ERROR resources.base - Unable to locate element: //a[text()='Catalog Restrictions']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+*** Element info: {Using=xpath, value=//a[text()='Catalog Restrictions']}
+21:06:09.198 [main] ERROR resources.base - User not able to click on the Domain Link link from the left navigation menu
+21:06:09.198 [main] ERROR resources.base - Unable to locate element: //a[text()='Domains']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+*** Element info: {Using=xpath, value=//a[text()='Domains']}
+21:06:14.580 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:06:14.619 [main] ERROR resources.base - User not able to click on the Set Notification Link from the Account Menu
+21:06:14.619 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/notifications"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+21:06:16.944 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:06:17.014 [main] ERROR resources.base - User not able to click on the Address of Use Link from the Account Menu
+21:06:17.014 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/account/address-request"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+21:06:22.284 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:06:22.325 [main] ERROR resources.base - User not able to click on the users link from the Account Menu
+21:06:22.325 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/users"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+21:06:42.392 [main] ERROR resources.base - User not able to click on request tab on the users page
+21:06:42.392 [main] ERROR resources.base - Unable to locate element: //a[text()='Requests ']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+*** Element info: {Using=xpath, value=//a[text()='Requests ']}
+21:07:02.443 [main] ERROR resources.base - User not able to click on Invites tab on the users page
+21:07:02.443 [main] ERROR resources.base - Unable to locate element: //a[text()='Invites ']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+*** Element info: {Using=xpath, value=//a[text()='Invites ']}
+21:07:04.757 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:07:04.808 [main] ERROR resources.base - User not able to click on the Logout Page from the Account Menu
+21:07:04.808 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/auth/logout"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+21:07:24.874 [main] ERROR resources.base - User not able to find the Forget Password Link on the Login Page
+21:07:24.874 [main] ERROR resources.base - Unable to locate element: //a[@id='forgetUrl']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+*** Element info: {Using=xpath, value=//a[@id='forgetUrl']}
+21:07:46.196 [main] ERROR resources.base - User not able to find Create Account Link on the Login Page , hence not able to click it
+21:07:46.196 [main] ERROR resources.base - Unable to locate element: //a[text()='Create Account']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 22248, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 83f5e86a-27d4-42e7-b7b9-28de9a9852d5
+*** Element info: {Using=xpath, value=//a[text()='Create Account']}
+21:17:52.282 [main] INFO  resources.base - The title of the home page is captured
+21:17:52.282 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+21:17:55.384 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+21:17:55.384 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+21:18:03.541 [main] INFO  resources.base - User has Clicked on the Manage tab from the Home Dashboard
+21:18:03.541 [main] INFO  resources.base - user has routed to the Manage Page after clicking on the manage Tab
+21:18:03.541 [main] INFO  resources.base - User has Successfully nevigated to the manage Page
+21:18:03.564 [main] INFO  resources.base - Billing & invoice link is present on the Manage Page
+21:18:03.607 [main] INFO  resources.base - Calendar link is present on the Manage Page
+21:18:03.631 [main] INFO  resources.base - Subscription link is present on the Manage Page
+21:18:07.653 [main] INFO  resources.base - User has clicked on the Insight tab from the Home Page
+21:18:07.653 [main] INFO  resources.base - After clicking on the Insight Tab from the Home page , User have successfully nevigate to the Insight Page
+21:18:07.695 [main] INFO  resources.base - Dashboard Link is present on the Insight Page
+21:18:07.749 [main] INFO  resources.base - Report Link is present on the Insight Page
+21:18:21.617 [main] INFO  resources.base - User has clicked on the notification link from the Home Page
+21:18:21.617 [main] INFO  resources.base - User has routed to the Notification page after clicking on the notification link
+21:18:21.644 [main] INFO  resources.base - Notification Settings button is present on the Notifications page
+21:18:21.666 [main] INFO  resources.base - Notification heading is present on the Notifications page
+21:18:21.686 [main] INFO  resources.base - All Notification tab is present on the Notifications page
+21:18:21.709 [main] INFO  resources.base - Flagged tab is present on the Notifications page
+21:18:27.767 [main] INFO  resources.base - User has clicked on the Logo from the Notification Page
+21:18:27.767 [main] INFO  resources.base - After clicking on logo, user has roue to the Homepage
+21:18:34.078 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:18:34.160 [main] ERROR resources.base - User not able to click on the My Profile Page from the Account Menu
+21:18:34.160 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/users/profile-view"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+21:18:54.197 [main] ERROR resources.base - User not able to click on the Edit Profile button on My Profile Page
+21:18:54.197 [main] ERROR resources.base - Unable to locate element: //a[@class='btn edit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=//a[@class='btn edit']}
+21:18:56.471 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:18:56.522 [main] ERROR resources.base - User not able to click on the Change Password Link from the Account Menu
+21:18:56.522 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/users/change-password"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+21:19:16.590 [main] ERROR resources.base - User not able to click on the Account Setting from the left navigation menu
+21:19:16.590 [main] ERROR resources.base - Unable to locate element: //a[text()='Account Settings']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=//a[text()='Account Settings']}
+21:19:21.193 [main] ERROR resources.base - User not able to click on the Catalog Restrictions link from the left navigation menu
+21:19:21.193 [main] ERROR resources.base - Failed to find value field
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=//a[text()='Catalog Restrictions']}
+21:19:21.994 [main] ERROR resources.base - User not able to click on the Domain Link link from the left navigation menu
+21:19:21.994 [main] ERROR resources.base - Failed to decode response from marionette
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=//a[text()='Domains']}
+21:19:22.032 [main] ERROR resources.base - User not able to find the account menu on the Home Page
+21:19:22.032 [main] ERROR resources.base - Tried to run command without establishing a connection
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=(//span[@class='account-title' and text()='My Account '])[1]}
+21:19:22.112 [main] ERROR resources.base - User not able to find the account menu on the Home Page
+21:19:22.115 [main] ERROR resources.base - Tried to run command without establishing a connection
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=(//span[@class='account-title' and text()='My Account '])[1]}
+21:19:22.127 [main] ERROR resources.base - User not able to find the account menu on the Home Page
+21:19:22.127 [main] ERROR resources.base - Tried to run command without establishing a connection
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=(//span[@class='account-title' and text()='My Account '])[1]}
+21:19:22.134 [main] ERROR resources.base - User not able to click on request tab on the users page
+21:19:22.134 [main] ERROR resources.base - Tried to run command without establishing a connection
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=//a[text()='Requests ']}
+21:19:22.144 [main] ERROR resources.base - User not able to click on Invites tab on the users page
+21:19:22.144 [main] ERROR resources.base - Tried to run command without establishing a connection
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=//a[text()='Invites ']}
+21:19:22.153 [main] ERROR resources.base - User not able to find the account menu on the Home Page
+21:19:22.153 [main] ERROR resources.base - Tried to run command without establishing a connection
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=(//span[@class='account-title' and text()='My Account '])[1]}
+21:19:22.166 [main] ERROR resources.base - User not able to find the Forget Password Link on the Login Page
+21:19:22.166 [main] ERROR resources.base - Tried to run command without establishing a connection
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7004, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73292a23-e293-4718-ad95-ab6defab8b7a
+*** Element info: {Using=xpath, value=//a[@id='forgetUrl']}
+21:21:31.828 [main] INFO  resources.base - The title of the home page is captured
+21:21:31.828 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+21:21:35.043 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+21:21:35.043 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+21:21:41.897 [main] INFO  resources.base - User has Clicked on the Manage tab from the Home Dashboard
+21:21:41.897 [main] INFO  resources.base - user has routed to the Manage Page after clicking on the manage Tab
+21:21:41.897 [main] INFO  resources.base - User has Successfully nevigated to the manage Page
+21:21:41.947 [main] INFO  resources.base - Billing & invoice link is present on the Manage Page
+21:21:41.968 [main] INFO  resources.base - Calendar link is present on the Manage Page
+21:21:41.992 [main] INFO  resources.base - Subscription link is present on the Manage Page
+21:21:45.997 [main] INFO  resources.base - User has clicked on the Insight tab from the Home Page
+21:21:45.997 [main] INFO  resources.base - After clicking on the Insight Tab from the Home page , User have successfully nevigate to the Insight Page
+21:21:46.042 [main] INFO  resources.base - Dashboard Link is present on the Insight Page
+21:21:46.073 [main] INFO  resources.base - Report Link is present on the Insight Page
+21:21:59.853 [main] INFO  resources.base - User has clicked on the notification link from the Home Page
+21:21:59.853 [main] INFO  resources.base - User has routed to the Notification page after clicking on the notification link
+21:21:59.882 [main] INFO  resources.base - Notification Settings button is present on the Notifications page
+21:21:59.905 [main] INFO  resources.base - Notification heading is present on the Notifications page
+21:21:59.924 [main] INFO  resources.base - All Notification tab is present on the Notifications page
+21:21:59.949 [main] INFO  resources.base - Flagged tab is present on the Notifications page
+21:22:06.197 [main] INFO  resources.base - User has clicked on the Logo from the Notification Page
+21:22:06.197 [main] INFO  resources.base - After clicking on logo, user has roue to the Homepage
+21:22:12.516 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:22:12.657 [main] ERROR resources.base - User not able to click on the My Profile Page from the Account Menu
+21:22:12.657 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/users/profile-view"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+21:22:32.711 [main] ERROR resources.base - User not able to click on the Edit Profile button on My Profile Page
+21:22:32.711 [main] ERROR resources.base - Unable to locate element: //a[@class='btn edit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+*** Element info: {Using=xpath, value=//a[@class='btn edit']}
+21:22:34.973 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:22:35.018 [main] ERROR resources.base - User not able to click on the Change Password Link from the Account Menu
+21:22:35.018 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/users/change-password"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+21:22:55.055 [main] ERROR resources.base - User not able to click on the Account Setting from the left navigation menu
+21:22:55.055 [main] ERROR resources.base - Unable to locate element: //a[text()='Account Settings']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+*** Element info: {Using=xpath, value=//a[text()='Account Settings']}
+21:23:15.119 [main] ERROR resources.base - User not able to click on the Catalog Restrictions link from the left navigation menu
+21:23:15.119 [main] ERROR resources.base - Unable to locate element: //a[text()='Catalog Restrictions']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+*** Element info: {Using=xpath, value=//a[text()='Catalog Restrictions']}
+21:23:35.197 [main] ERROR resources.base - User not able to click on the Domain Link link from the left navigation menu
+21:23:35.197 [main] ERROR resources.base - Unable to locate element: //a[text()='Domains']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+*** Element info: {Using=xpath, value=//a[text()='Domains']}
+21:23:40.485 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:23:40.530 [main] ERROR resources.base - User not able to click on the Set Notification Link from the Account Menu
+21:23:40.530 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/notifications"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+21:23:42.850 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:23:42.902 [main] ERROR resources.base - User not able to click on the Address of Use Link from the Account Menu
+21:23:42.902 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/account/address-request"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+21:23:48.215 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:23:48.240 [main] ERROR resources.base - User not able to click on the users link from the Account Menu
+21:23:48.240 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/users"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+21:24:08.270 [main] ERROR resources.base - User not able to click on request tab on the users page
+21:24:08.270 [main] ERROR resources.base - Unable to locate element: //a[text()='Requests ']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+*** Element info: {Using=xpath, value=//a[text()='Requests ']}
+21:24:28.287 [main] ERROR resources.base - User not able to click on Invites tab on the users page
+21:24:28.287 [main] ERROR resources.base - Unable to locate element: //a[text()='Invites ']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+*** Element info: {Using=xpath, value=//a[text()='Invites ']}
+21:24:31.007 [main] INFO  resources.base - User has clicked on the Account menu from the Shop Page
+21:24:31.025 [main] ERROR resources.base - User not able to click on the Logout Page from the Account Menu
+21:24:31.025 [main] ERROR resources.base - Element <a href="http://ccpqa-customerportal.arpatech.com/auth/logout"> could not be scrolled into view
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+21:24:51.069 [main] ERROR resources.base - User not able to find the Forget Password Link on the Login Page
+21:24:51.069 [main] ERROR resources.base - Unable to locate element: //a[@id='forgetUrl']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6492, moz:profile: C:\Users\bilaw\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6d84523f-f00e-4991-9920-2632f2bd98d5
+*** Element info: {Using=xpath, value=//a[@id='forgetUrl']}
+21:29:12.322 [main] INFO  resources.base - The title of the home page is captured
+21:29:12.322 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+21:29:15.202 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+21:29:15.202 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+21:29:19.717 [main] INFO  resources.base - User has Clicked on the Manage tab from the Home Dashboard
+21:29:19.717 [main] INFO  resources.base - user has routed to the Manage Page after clicking on the manage Tab
+21:29:19.717 [main] INFO  resources.base - User has Successfully nevigated to the manage Page
+21:29:19.758 [main] INFO  resources.base - Billing & invoice link is present on the Manage Page
+21:29:19.784 [main] INFO  resources.base - Calendar link is present on the Manage Page
+21:29:19.808 [main] INFO  resources.base - Subscription link is present on the Manage Page
+21:29:23.725 [main] INFO  resources.base - User has clicked on the Insight tab from the Home Page
+21:29:23.725 [main] INFO  resources.base - After clicking on the Insight Tab from the Home page , User have successfully nevigate to the Insight Page
+21:29:23.743 [main] INFO  resources.base - Dashboard Link is present on the Insight Page
+21:29:23.763 [main] INFO  resources.base - Report Link is present on the Insight Page
+21:29:31.735 [main] INFO  resources.base - User has clicked on the notification link from the Home Page
+21:29:31.735 [main] INFO  resources.base - User has routed to the Notification page after clicking on the notification link
+21:29:31.772 [main] INFO  resources.base - Notification Settings button is present on the Notifications page
+21:29:31.801 [main] INFO  resources.base - Notification heading is present on the Notifications page
+21:29:31.826 [main] INFO  resources.base - All Notification tab is present on the Notifications page
+21:29:31.853 [main] INFO  resources.base - Flagged tab is present on the Notifications page
+21:29:37.972 [main] INFO  resources.base - User has clicked on the Logo from the Notification Page
+21:29:37.972 [main] INFO  resources.base - After clicking on logo, user has roue to the Homepage
